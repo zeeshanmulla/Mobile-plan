@@ -1,14 +1,60 @@
 # Mobile-plan
-Locking Unlocking system for mobile remote plan
+**Locking Unlocking system for mobile remote plan**
 This chapter gives a basic overview about the topic we have implemented. 
 
-LOCKING UNLOCKING SYSTEM FOR MOBILE REMOTE PLAN
+**LOCKING UNLOCKING SYSTEM FOR MOBILE REMOTE PLAN**
 
 LOCKING UNLOCKING SYSTEM FOR MOBILE REMOTE PLAN is something which disconnects the service provided by the network, if payment of bill is not being done time to time. The post-paid mobile phone is a mobile phone for which service is provided by a prior arrangement with a (CSP) Carriage Service Provider. The user in this situation is billed after the fact according to their use of mobile services at the end of each month. Typically, the customer's contract specifies a limit or "allowance" of minutes, text messages etc., and the customer will be billed at a flat rate for any usage equal to or less than that allowance. Any usage above that limit incurs extra charges. 
 Theoretically, a user in this situation has no limit on use of mobile services and, as a consequence, unlimited credit. This service is better for people with a secured income. If your mobile calling line is temporarily disconnected, all bills due as at date should be settled in full. The undue bill balance on your account should be less than your credit limit, and needs to be settled on the due date. If the connection is required immediately the payment should be made in cash or credit card. If the line is deactivated you are required to produce your NIC for reconnection.
 Mobile phones have grown to be ubiquitous in the past few years. They have evolved from merely luxuries that a rich businessman can afford to necessities that even school-aged children need. Mobile phones provide several comforts, such as security and convenience. However, there is also a cost to owning a mobile phone.
 To a cost-conscious individual, this can be easily controlled. Simply try to monitor and limit the number of calls and text messages you make in one day, so you can stay within your allocation. However, what if you run a business, and you're afraid your employees might abuse their company-issued phones. If you get surprised at the end of each month how big yours cellular phone bill is. If you are just a light user and monthly plans give too many free minutes and text messages than necessary.
 One good solution is to convert your phone to prepaid. Prepaid systems, or pay-as-you go systems don't have regular, recurring bills. Instead, you buy credits to top-up your phone's "wallet." Each call, SMS or data access is then billed against this amount. This can be particularly convenient if you are a light user. You can keep your phone in your purse for emergencies, but don't have to worry about paying every month for something you aren't using.
+
+ 
+**DESIGN DETAILS**
+
+![3](https://user-images.githubusercontent.com/29397302/78455541-9d1bde80-76bc-11ea-8316-b4f00d362c79.jpg)
+Fig. Overview of a typical services distribution
+
+
+**LAYOUT OF FORMS**
+
+![e](https://user-images.githubusercontent.com/29397302/78455630-2501e880-76bd-11ea-9a18-eb984825ef42.jpg)
+
+
+**1st Step:**
+  
+•	Install the driver for USB-Serial converter cable.
+•	Install Microsoft visual studio.
+•	Using a USB to Serial converter cable connect the GSM Modem to the compter i.e by connecting the USB male end to the computer and Serial male end to the Serial female port on the GSM modem (Port marked on the image above).
+
+<img src= "https://user-images.githubusercontent.com/29397302/78455707-8d50ca00-76bd-11ea-88c3-23ad88f3083c.jpg" width=200 height= 200 ><img src= "https://user-images.githubusercontent.com/29397302/78455711-92ae1480-76bd-11ea-9f0d-7a7ddc1a81e6.jpg" width=200 height= 200 > 
+
+**2nd Step:**
+
+•	Now go to folder where the project files are stored.
+•	Open the file “Project1.vbp”
+
+![www](https://user-images.githubusercontent.com/29397302/78456200-ea4d7f80-76bf-11ea-9ff6-0cd1a8a43d24.jpg)
+
+**3rd Step:**
+
+![qq](https://user-images.githubusercontent.com/29397302/78456254-3698bf80-76c0-11ea-9735-18c9c0064497.jpg)
+
+**4th Step:**
+
+![rr](https://user-images.githubusercontent.com/29397302/78456256-3b5d7380-76c0-11ea-9d85-17f6618c7222.jpg)
+![ss](https://user-images.githubusercontent.com/29397302/78456257-3ef0fa80-76c0-11ea-9801-8a22c98a6055.jpg)
+
+**USing The Program:**
+
+<img src="https://user-images.githubusercontent.com/29397302/78456310-84adc300-76c0-11ea-8b34-7dfbf6b56ecf.jpg"  width=200 height=300> <img src="https://user-images.githubusercontent.com/29397302/78456314-88d9e080-76c0-11ea-822d-6cd42c15c0e4.jpg"  width=200 height=300>
+<img src="https://user-images.githubusercontent.com/29397302/78456315-89727700-76c0-11ea-8b49-bf8c488df48d.jpg"  width=200 height=300>
+
+**The CAll Logger:**
+
+![z](https://user-images.githubusercontent.com/29397302/78456396-11f11780-76c1-11ea-89ff-e9ba717c5128.jpg)
+
 
 1.2	OBJECTIVES
 
